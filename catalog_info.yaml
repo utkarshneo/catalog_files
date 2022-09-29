@@ -17,8 +17,6 @@ metadata:
       url: https://www.github.com/RearPortal
   annotations:
     gitlab.com/project-slug: my_work
-    backstage.io/techdocs-ref: dir:.
-    backstage.io/adr-location: docs/adrs
 spec:
   type: service
   lifecycle: production

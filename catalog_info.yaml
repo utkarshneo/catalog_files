@@ -16,7 +16,7 @@ metadata:
     - title: Source Control
       url: https://www.github.com/RearPortal
   annotations:
-    gitlab.com/project-slug: my_work
+    gitlab.com/project-slug: statusneo/my_work
 spec:
   type: service
   lifecycle: production
